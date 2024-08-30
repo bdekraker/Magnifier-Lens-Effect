@@ -4,7 +4,7 @@ A simple, customizable magnifier lens effect for images. This project allows you
 
 ## Demo
 
-![Magnifier Lens Effect Demo](demo.mp4)
+![Magnifier Lens Effect Demo](https://github.com/bdekraker/Magnifier-Lens-Effect/blob/main/demo.mp4)
 
 ## Features
 
