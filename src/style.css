@@ -1,0 +1,20 @@
+.magnifier-lens {
+    position: absolute;
+    border: 1px solid #000;
+    border-radius: 50%;
+    cursor: crosshair;
+    box-shadow: 0 0 5px #000;
+    pointer-events: none;
+    visibility: hidden;
+    background-repeat: no-repeat;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
